@@ -1,1 +1,4 @@
-"# thesis-2023-muro-robotont-battery-assembly" 
+# muro-thesis-2023-robotont-battery-assembly
+
+## ENG
+Welcome to the repository for Robotont's battery assembly mechanics.
