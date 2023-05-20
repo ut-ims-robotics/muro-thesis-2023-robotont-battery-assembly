@@ -35,7 +35,7 @@ The following figures visualize the front side of the PCB along with the 3D mode
 ## Voltage Regulator / Pingeregulaator
 
 The following figures visualize the front side of the PCB along with the KiCad model of the design:
-<img src="Pictures/12V_regulator_prototype.jpg" width="450"/> <img src="Pictures/pcb_kicad_design.png" width="450"/>
+<img src="Pictures/12V_regulator_prototype.jpg" width="400"/> <img src="Pictures/pcb_kicad_design.png" width="400"/>
 
 
 
