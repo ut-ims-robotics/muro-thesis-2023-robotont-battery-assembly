@@ -3,7 +3,7 @@
 ## ENG
 Welcome to the repository for Robotont's battery assembly mechanics and 12 V voltage regulator. This repository includes KiCad project files, pictures, renders and videos that illustrate development of Robotont.
 
-Production files for battery locking mechanism can be found at this [repository](https://github.com/robotont/robotont-mechanics).
+Production files for battery locking mechanism are part of gen3 Robotont development and can be found at this [repository](https://github.com/robotont/robotont-mechanics).
 
 KiCad project files and production files for battery data adapter can be found at this [repository](https://github.com/robotont/robotont-electronics-battery-adapter).
 
@@ -13,7 +13,7 @@ KiCad project files and production files for voltage regulator can be found at t
 ## EST 
 Tere tulemast Robotondi akumehhanismi ja 12 V pingeregulaatori hoidlasse. Selles hoidlas on KiCadi projektifailid ning leidub samuti pilte, videosid ja 3D visualiseeringuid , mis illustreerivad Robotondi arendusprotsessi.
 
-Aku lukustusmehanismi tootmisfailid asuvad siin [hoidlas](https://github.com/robotont/robotont-mechanics).
+Aku lukustusmehanismi tootmisfailid on osa gen3 Robotondi arendusest ja asuvad siin [hoidlas](https://github.com/robotont/robotont-mechanics).
 
 KiCadi projekti- ja tootmisfailid aku andmevahetuse adapteri jaoks asuvad siin [hoidlas](https://github.com/robotont/robotont-electronics-battery-adapter).
 
