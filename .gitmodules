@@ -1,3 +1,6 @@
 [submodule "robotont-electronics-mainboard"]
 	path = robotont-electronics-mainboard
 	url = https://github.com/robotont/robotont-electronics-mainboard
+[submodule "robotont-electronics-battery-adapter"]
+	path = robotont-electronics-battery-adapter
+	url = https://github.com/robotont/robotont-electronics-battery-adapter
