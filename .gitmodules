@@ -4,3 +4,6 @@
 [submodule "robotont-electronics-battery-adapter"]
 	path = robotont-electronics-battery-adapter
 	url = https://github.com/robotont/robotont-electronics-battery-adapter
+[submodule "robotont-mechanics"]
+	path = robotont-mechanics
+	url = https://github.com/robotont/robotont-mechanics
