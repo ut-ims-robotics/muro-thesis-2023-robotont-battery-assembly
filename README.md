@@ -23,8 +23,19 @@ KiCadi projekti- ja tootmisfailid pingeregulaatori jaoks asuvad siin [kaustas](h
 ## Battery Locking Mechanism / Aku Lukustusmehhanism
 3D model and prototype of battery locking mechanism for Robotont:
 
-![Mechanism 3D model](Renders/locking_mech_render.jpg)
-![Final Prototype](Pictures/locking_mech_final_proto.jpg)
+<img src="Renders/locking_mech_render.jpg" width="450"/> <img src="Pictures/locking_mech_final_proto.jpg" width="350"/>
+
+Locking mechanism and battery in 2nd gen robot assembly:
+<img src="Renders/robot_asm_render.jpg" width="750"/>
+
+## Battery Data Adapter / Aku Andmevahetuse Adapter
+The following figures visualize the front side of the PCB along with the 3D model of the design:
+<img src="Pictures/robotont-electronics-adapter-3d.png" width="350"/> <img src="Pictures/robotont-electronics-adapter-front.png" width="450"/>
+
+## Voltage Regulator / Pingeregulaator
+
+The following figures visualize the front side of the PCB along with the KiCad model of the design:
+<img src="Pictures/12V_regulator_prototype.jpg" width="450"/> <img src="Pictures/pcb_kicad_design.png" width="450"/>
 
 
 
